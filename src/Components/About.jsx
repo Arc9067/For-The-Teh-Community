@@ -9,9 +9,9 @@ const About = () => {
         alt=""
         className="w-[13rem] -top-10  animate-bounce object-cover absolute "
       />
-      <h1 className=" absolute right-0 rotate-3 top-[10%] text-white uppercase md:text-4xl animate-pulse decoration-wavy underline decoration-white text-5xl">
+      {/* <h1 className=" absolute right-0 rotate-3 top-[10%] text-white uppercase md:text-4xl animate-pulse decoration-wavy underline decoration-white text-5xl">
         10000x
-      </h1>
+      </h1> */}
       <div className="container relative flex items-center mt-11 flex-col gap-5">
         <div className="flex flex-col gap-4">
           <h1 className="text-5xl text-center uppercase -rotate-1 underline decoration-lime-500 p-6 rounded-full font-Cherry_Bomb_One decoration-wavy">

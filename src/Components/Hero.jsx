@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="container flex gap-5 flex-col justify-center items-center">
         <img src={Logo} alt="" className="" />
         <h1 className="uppercase text-5xl  gap-3 text-center md:text-7xl">
-          for the teh{" "}
+          for the teh
           <span className=" font-Cherry_Bomb_One md:font-Chelsea_Market">
             community
           </span>
