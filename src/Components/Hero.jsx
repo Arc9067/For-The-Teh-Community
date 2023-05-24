@@ -3,7 +3,7 @@ import Logo from "../assets/logo.png";
 
 const Hero = () => {
   return (
-    <section className="py-hun flex justify-center items-center hero w-full bg-lime-400 bg-cover bg-no-repeat bg-center text-white">
+    <section className="py-hun min-h-screen flex justify-center items-center hero w-full bg-lime-400 bg-cover bg-no-repeat bg-center text-white">
       <div className="container flex gap-5 flex-col justify-center items-center">
         <img src={Logo} alt="" className="" />
         <h1 className="uppercase text-5xl  gap-3 text-center md:text-7xl">
